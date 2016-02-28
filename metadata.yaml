@@ -1,0 +1,38 @@
+_repo: Equality_7303
+creator:
+  author:
+    agent_name: Bellamy, Edward
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '327'
+    url: http://www.gutenberg.org/2009/agents/327
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bellamy
+description: "Equality is a utopian novel by Edward Bellamy, and the sequel to Looking\
+  \ Backward: 2000–1887. It was first published in 1897. The book contains a minimal\
+  \ amount of plot; Bellamy primarily used Equality to expand on the theories he first\
+  \ explored in Looking Backward.\nThe text is now in the public domain and available\
+  \ for free.\n^ http://www.amazon.com/Equality-Julian-West-ebook/dp/B0084AL124/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1369169084&sr=1-1&keywords=equality\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7303'
+  wikidata: Q5384167
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Utopian fiction'
+- !lcsh 'Socialism -- Fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcc 'PS'
+- !lcc 'HX'
+- !lcsh 'Science fiction'
+title: Equality
+url: http://www.gutenberg.org/ebooks/7303
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%A7%D9%88%D8%A7%D8%A9_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://en.wikipedia.org/wiki/Equality_(novel)
